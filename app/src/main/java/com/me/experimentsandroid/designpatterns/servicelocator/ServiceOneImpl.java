@@ -1,6 +1,6 @@
-package com.me.experimentsandroid.servicelocator;
+package com.me.experimentsandroid.designpatterns.servicelocator;
 
-import com.me.experimentsandroid.servicelocator.contracts.Service;
+import com.me.experimentsandroid.designpatterns.servicelocator.contracts.Service;
 
 public class ServiceOneImpl  implements Service {
     public void execute(){

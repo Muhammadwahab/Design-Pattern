@@ -1,4 +1,4 @@
-package com.me.experimentsandroid.servicelocator;
+package com.me.experimentsandroid.designpatterns.servicelocator;
 
 public class ServiceLocator {
     private static Cache cache;
